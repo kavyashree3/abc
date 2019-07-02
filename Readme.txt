@@ -1,4 +1,4 @@
-first file content
+First file content
 Adding second content
-modified develop branch
-changed content from github
+Modified develop branch
+Changed content from github
